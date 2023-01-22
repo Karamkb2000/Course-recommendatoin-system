@@ -1,0 +1,2 @@
+# Course-recommendatoin-system
+This project proposes a course recommendation system. an application for Course recommendation system to help students for selecting next semester courses prepared with the help of experts where the details of background of the students and their aptitudes help finding a course that is beneficial for future. A rule based Algorithm’s is being used to solve the above scenario.
